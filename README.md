@@ -5,7 +5,7 @@
   
   No momento estou no processo de transição de carreira para me tornar um Desenvolvedor iOS, estou estudando e desenvolvendo projetos pessoais para aprender coisas novas e sempre estar atualizado com as novidados do mercado. 
   
-  A experiência que adquiri nesses 4 anos como analista com certeza estão me ajudando nestee processo 🚀
+  A experiência que adquiri nesses 4 anos como analista com certeza estão me ajudando nessa mudança de carreira 🚀
 </p>
 
 <p align="left">
