@@ -9,6 +9,10 @@
 </p>
 
 <p align="left">
+  🎓 Formação: <strong>Análise e Desenvolvimento de Sistemas pela FIAP</strong>
+</p>
+
+<p align="left">
   💻 Linguagens: <strong>Swift</strong>
 </p>
 
