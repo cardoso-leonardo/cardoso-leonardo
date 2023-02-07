@@ -3,9 +3,9 @@
 <p align="left"> 
   Atuei mais de 4 anos como Analista de Dados porém minha paixão sempre foi programação, desde os 12 anos já sabia que queria isso para minha vida.
   
-  No momento estou no processo de transição de carreira para me tornar um Desenvolvedor iOS, estou estudando e desenvolvendo projetos pessoais para aprender coisas novas e sempre estar atualizado com as novidados do mercado. 
+  No momento estou no processo de transição de carreira para me tornar um Desenvolvedor iOS, estudando e desenvolvendo projetos pessoais para aprender coisas novas e sempre estar atualizado com as novidades do mercado. 
   
-  A experiência que adquiri nesses 4 anos como analista com certeza estão me ajudando nessa mudança de carreira 🚀
+  A experiência que adquiri nesses 4 anos como analista tem me ajudado muito nessa nova jornada! 🚀
 </p>
 
 <p align="left">
