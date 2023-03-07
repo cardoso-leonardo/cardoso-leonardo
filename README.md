@@ -17,11 +17,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Trello, Github, XCode, Adobe Express</strong>
+  💼 Ferramentas: <strong>Trello, Github, XCode</strong>
 </p>
 
 <p align="left">
-   ✉️ Entre em contato comigo: ⤵️
+   ✉️ Entre em contato comigo:
 </p>
 
   <a href="https://www.linkedin.com/in/leonardo-mcardoso/" alt="Linkedin">
